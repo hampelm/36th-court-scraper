@@ -1,0 +1,22 @@
+{
+  "name": "36court",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Hampel",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "nightmare": "^2.1.6",
+    "osmosis": "^0.1.1",
+    "pg": "^4.4.3",
+    "pg-parse-float": "0.0.1",
+    "vo": "^1.0.3"
+  }
+}

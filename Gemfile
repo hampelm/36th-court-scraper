@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'awesome_print'
+gem 'dotenv'
+gem 'mechanize'
+gem 'pg'
+gem 'rspec'
